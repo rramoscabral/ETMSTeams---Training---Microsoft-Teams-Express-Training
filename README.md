@@ -17,7 +17,7 @@ O Microsoft Teams inclui tudo o que é necessário para criar uma equipa em que 
 
 <br />
 
-O Microsoft Teams não é exclusivo a empresas, qualquer utilizador com uma conta Microsoft pode usar experimentar o Microsoft Teams a custo **ZERO**
+O Microsoft Teams não é exclusivo a empresas, qualquer utilizador com uma conta Microsoft pode usar experimentar o Microsoft Teams a custo **ZERO**.
 
 Para utilizadores do Microsoft Office 365 o Teams pode ser ativado e inclui funcionalidades avançadas.
 
