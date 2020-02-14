@@ -1,4 +1,4 @@
-# Microsoft-Teams-Express-Training
+# Microsoft Teams Express Training
 Formação de Microsoft Teams para utilizadores / Microsoft Teams Training for End Users
 
 ### Note: The content from this training is written in Portuguese.
